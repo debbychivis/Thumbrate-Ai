@@ -1,0 +1,5 @@
+{
+  "name": "ThumbRate AI",
+  "description": "A professional YouTube thumbnail analysis tool powered by Gemini. Compare up to 5 variations with AI-driven insights on CTR potential, visual hierarchy, and title alignment.",
+  "requestFramePermissions": []
+}
